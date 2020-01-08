@@ -74,11 +74,11 @@
   },
   "author": "john@techfox.io",
   "license": "ISC",
-  "homepage": "https://ckeditor.com/ckeditor-5",
-  "bugs": "https://github.com/ckeditor/ckeditor5/issues",
+  "homepage": "https://github.com/john-techfox/techfox-editor",
+  "bugs": "https://github.com/john-techfox/techfox-editor/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5-build-decoupled-document.git"
+    "url": "https://github.com/john-techfox/techfox-editor"
   },
   "scripts": {
     "build": "webpack --mode production",
