@@ -1,6 +1,6 @@
 {
   "name": "techfox-editor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TechFox DecoupledEditor customize",
   "keywords": [
     "ckeditor5-build",
@@ -49,6 +49,7 @@
     "@ckeditor/ckeditor5-paste-from-office": "^16.0.0",
     "@ckeditor/ckeditor5-table": "^16.0.0",
     "@ckeditor/ckeditor5-theme-lark": "^16.0.0",
+    "@ckeditor/ckeditor5-code-block": "^16.0.0",
     "eslint": "^6.8.0",
     "eslint-config-ckeditor5": "^2.0.0",
     "eslint-config-standard": "^14.1.0",
